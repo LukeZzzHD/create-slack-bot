@@ -1,0 +1,25 @@
+{
+  "name": "create-slack-bot",
+  "version": "1.0.0",
+  "description": "create-slack-bot provides you with boilderplate code to build a slack bot. The name kinda says it.",
+  "main": "./dist/src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LukeZzzHD/create-slack-bot.git"
+  },
+  "keywords": [
+    "slack",
+    "chatbot",
+    "bot",
+    "chat"
+  ],
+  "author": "Lukas Schwab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LukeZzzHD/create-slack-bot/issues"
+  },
+  "homepage": "https://github.com/LukeZzzHD/create-slack-bot#readme"
+}
